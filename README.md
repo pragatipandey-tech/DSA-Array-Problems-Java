@@ -15,6 +15,7 @@ The goal of this project is to strengthen problem-solving skills and prepare for
 * Best Time to Buy and Sell Stock
 * Trapping Rainwater Problem
 * Count Occurrences in Sorted Array
+* Sort 0s, 1s, 2s (Dutch National Flag)
 
 ---
 
