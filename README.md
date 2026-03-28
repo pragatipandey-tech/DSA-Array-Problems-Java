@@ -7,22 +7,49 @@ The goal of this project is to strengthen problem-solving skills and prepare for
 
 ## 📌 Topics Covered
 
+### 🔹 Basic & Intermediate Problems
+
 * Find Missing Number (1 to N)
 * Rotate Array by K Positions
 * Move All Zeroes to End
 * Find Duplicates in an Array
+* Count Occurrences in Sorted Array
+
+### 🔹 Advanced / Interview-Level Problems
+
 * Majority Element (n/3)
 * Best Time to Buy and Sell Stock
 * Trapping Rainwater Problem
-* Count Occurrences in Sorted Array
 * Sort 0s, 1s, 2s (Dutch National Flag)
+* Find All Triplets with Sum = 0 (3Sum Problem)
+
+---
+
+## 🧠 Problem Highlight
+
+### 🔸 Find All Triplets with Sum = 0 (3Sum)
+
+* Given an array, find all unique triplets whose sum is equal to zero.
+* Approach:
+
+  * Sort the array
+  * Use Two Pointer technique
+  * Avoid duplicates
+* Time Complexity: **O(n²)**
+* Space Complexity: **O(1)** (excluding output)
 
 ---
 
 ## 🛠️ Tech Stack
 
 * Language: **Java**
-* Concepts: Arrays, Hashing, Two Pointers, Greedy
+* Concepts Used:
+
+  * Arrays
+  * Sorting
+  * Two Pointers
+  * Hashing
+  * Greedy Algorithms
 
 ---
 
@@ -38,30 +65,34 @@ src/
 │── BestTimeToBuySellStock.java
 │── TrappingRainwater.java
 │── CountOccurrences.java
+│── Sort012.java
+│── ThreeSum.java
 ```
+
 ---
 
 ## 💡 Key Learnings
 
-* Improved problem-solving skills
-* Learned different array manipulation techniques
-* Better understanding of edge cases
-* Hands-on practice for coding interviews
+* Improved problem-solving and logical thinking
+* Mastered array manipulation techniques
+* Learned optimized approaches over brute force
+* Gained understanding of edge cases handling
+* Practiced interview-level coding questions
 
 ---
 
 ## 📈 Future Improvements
 
-* Add remaining DSA problems
-* Include optimized solutions
-* Add time & space complexity
-* Include test cases
+* Add more advanced DSA problems
+* Include detailed explanations for each problem
+* Add time & space complexity for all solutions
+* Include test cases and sample inputs/outputs
+* Organize problems by difficulty (Easy / Medium / Hard)
 
 ---
 
 ## ⭐ Support
 
-If you find this repository helpful, please give it a ⭐ to support!
+If you find this repository helpful, consider giving it a ⭐ to support the project!
 
 ---
-
