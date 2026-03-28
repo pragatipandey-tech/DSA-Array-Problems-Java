@@ -25,21 +25,6 @@ The goal of this project is to strengthen problem-solving skills and prepare for
 
 ---
 
-## 🧠 Problem Highlight
-
-### 🔸 Find All Triplets with Sum = 0 (3Sum)
-
-* Given an array, find all unique triplets whose sum is equal to zero.
-* Approach:
-
-  * Sort the array
-  * Use Two Pointer technique
-  * Avoid duplicates
-* Time Complexity: **O(n²)**
-* Space Complexity: **O(1)** (excluding output)
-
----
-
 ## 🛠️ Tech Stack
 
 * Language: **Java**
