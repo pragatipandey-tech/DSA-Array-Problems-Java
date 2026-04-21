@@ -76,8 +76,6 @@ src/
 
 ---
 
-## ⭐ Support
 
-If you find this repository helpful, consider giving it a ⭐ to support the project!
 
 ---
