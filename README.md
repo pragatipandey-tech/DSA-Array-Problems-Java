@@ -1,7 +1,6 @@
 # 🚀 DSA Array Problems in Java
 
 This repository contains implementations of commonly asked **Data Structures and Algorithms (DSA)** array problems in Java.
-
 The goal of this project is to strengthen problem-solving skills and prepare for coding interviews.
 
 ---
