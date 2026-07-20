@@ -29,7 +29,7 @@ The goal of this project is to strengthen problem-solving skills and prepare for
 ## 🛠️ Tech Stack
 
 * Language: **Java**
-* Concepts Used:
+* Concepts Used:-
 
   * Arrays
   * Sorting
